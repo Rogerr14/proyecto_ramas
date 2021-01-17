@@ -1,0 +1,6 @@
+On branch intento
+nothing to commit, working tree clean
+[intento bf1beec] Añado una segunda linea al archivo_b.txt en la rama intento
+ 1 file changed, 2 insertions(+)
+[intento 053aca2] Añado la primera linea al archivo_b.txt en la rama intento
+ 1 file changed, 2 insertions(+)
